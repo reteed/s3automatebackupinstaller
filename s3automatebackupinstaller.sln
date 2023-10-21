@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "s3automatebackupinstaller", "s3automatebackupinstaller\s3automatebackupinstaller.vdproj", "{7D0861ED-5469-4FF0-BCBB-6BBE15CB7BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0861ED-5469-4FF0-BCBB-6BBE15CB7BB2}.Debug|Default.ActiveCfg = Debug
+		{7D0861ED-5469-4FF0-BCBB-6BBE15CB7BB2}.Debug|Default.Build.0 = Debug
+		{7D0861ED-5469-4FF0-BCBB-6BBE15CB7BB2}.Release|Default.ActiveCfg = Release
+		{7D0861ED-5469-4FF0-BCBB-6BBE15CB7BB2}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4418D8-BFC1-4678-A18F-BA30B63E7FEC}
+	EndGlobalSection
+EndGlobal

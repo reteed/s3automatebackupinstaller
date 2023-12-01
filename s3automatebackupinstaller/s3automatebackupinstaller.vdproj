@@ -4,9 +4,9 @@
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
 "ProjectName" = "8:s3automatebackupinstaller"
-"LanguageId" = "3:3082"
+"LanguageId" = "3:1033"
 "CodePage" = "3:1252"
-"UILanguageId" = "3:3082"
+"UILanguageId" = "3:1033"
 "SccProjectName" = "8:"
 "SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
@@ -165,7 +165,7 @@
         }
         "MsiBootstrapper"
         {
-        "LangId" = "3:3082"
+        "LangId" = "3:1033"
         "RequiresElevation" = "11:FALSE"
         }
         "Product"
@@ -173,7 +173,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:S3AutomateBackup"
         "ProductCode" = "8:{FAAED61B-F790-4A7E-882D-41886EC61D30}"
-        "PackageCode" = "8:{ECF229C5-C6B8-4A69-A626-7B270575A081}"
+        "PackageCode" = "8:{F92E13B5-604A-43AB-A335-D19CE96C0AC1}"
         "UpgradeCode" = "8:{10BD5B81-5F31-4412-8617-212D05597A23}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -708,7 +708,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_870990363E264C089DB37076A1A2B223"
             {
-            "SourcePath" = "8:..\\..\\s3automatebackup\\s3automatebackup\\obj\\Release\\net7.0-windows\\apphost.exe"
+            "SourcePath" = "8:..\\..\\s3automatebackup\\s3automatebackup\\obj\\Release\\net8.0-windows8.0\\apphost.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1CCAC74F76AE404F987ED69AA66CC5CB"
